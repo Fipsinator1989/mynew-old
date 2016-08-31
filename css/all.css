@@ -1,0 +1,19 @@
+﻿#container_header_1 {
+	background-color:white;
+}
+
+#navigation_top {
+	margin-top:5px;
+}
+
+.imim_title {
+	font-size:18px;
+	font-weight:bold;
+	
+}
+.imim_img {
+	width:225px;
+}
+#title_img {
+	margin-left:30px;
+}

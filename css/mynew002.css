@@ -1,0 +1,10 @@
+#container_header_dyn, #container_header_1, #container_pages, #language, #container_search, #navigation_top, #container_header_2, #left_column, #footer_image { display:none; }
+#print_header {
+  display:block;
+  position:relative;
+}
+#the_body, #container_content {
+  text-align:left;
+  margin-left:0;
+}
+#body_all { margin:0; }

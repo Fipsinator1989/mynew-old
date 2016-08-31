@@ -1,0 +1,127 @@
+/*css hauptteil start*/
+#header {
+ float-left%;
+ height: 20%;
+} 
+
+#content {
+ float:left;
+ width:100%;
+ height: 70%;
+}
+
+#footer {
+ float:left;
+ width:100%;
+ height:10%;
+} 
+/*css hauptteil ende*/
+/*css header navigation start*/
+#header-nav {
+/* margin-left: 20%;*/
+} 
+
+#header a {
+text-decoration: none;
+color: grey;
+} 
+
+#header a:hover {
+text-decoration: none;
+color: orange;
+} 
+
+#header img {
+margin:2%;
+} 
+
+#ueber_uns{
+ float:left;
+ width:33%;
+ margin-left: 16%;
+} 
+#angebote { 
+ float:left;
+ width:33%;
+ /*margin-left: 50px;*/
+} 
+#kontakt {
+ float:left;
+ width:16%;
+ /*margin-left: 50px;*/
+} 
+/*css header navigation ende */
+/*css content middle start*/
+#sidebar-links {
+ float: left; 
+ width:10%;
+ height:75%;
+} 
+
+#text_links {
+ margin: 20px; 
+} 
+
+#middle {
+ float: left;
+ width:75%;
+} 
+
+#begruessungstext {
+ font-family:calibri, Garamond, Comic Sans; 
+ font-size:0.9em;
+ /*margin-left: 10%*/
+}
+
+#begruessungstext h1 {
+ /*text-align:center
+ font-family:calibri, Garamond, Comic Sans;*/
+}
+
+#startseitenbild {
+ margin-top: 2%;
+ text-align: center;
+ height:63%;
+ }
+ 
+ #sidebar-rechts {
+ float: left; 
+ width:15%;
+ height:75%;
+} 
+
+#top_angebote{
+ margin: 20px;  
+} 
+/*css content middle ende */
+/*css footer navigation start*/
+#footer a {
+text-decoration: none;
+color: grey;
+} 
+
+#footer a:hover {
+text-decoration: none;
+color: orange;
+} 
+
+#agb{
+ float:left;
+ width:33%;
+ margin-left: 16%;
+} 
+#platzhalter {
+ float:left;
+ width:33%;
+ /*margin-left: 50px;*/
+} 
+#impressum {
+ float:left;
+ width:16%;
+ /*margin-left: 50px;*/
+} 
+/*css footer navigation ende */
+
+
+
+
